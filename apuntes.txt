@@ -1,0 +1,15 @@
+API = application programming interface
+nos permiten a través de unos enpoinds recuperar,actualizar, eliminar o crear recursos
+
+nodemon = paquete como devdependeci que nos ayuda a refrescar el server cada que haya cambios.
+
+* EVITAR ERRORES EN NUESTRO CODE
+para ello usamos herramientas que se llaman linters o lins, que nos señala los errores que tengamos
+cuando trabajemos con nodejs, añadiendole el code-style (como lo es el decirnos la cantidad de espacios
+que debemos mantener, etc)
+
+* MIDDLEWARE
+es una funcion que intercepta la peticion que está pasando por nuestra API
+
+* CORS
+cors origin resources sharing = compartir recurso entre diferentes origénes
